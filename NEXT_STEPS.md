@@ -1,16 +1,16 @@
 # Session Resume Guide
 
-This file is the **project memory** for the translator web app. Cursor does not copy full chat transcripts into your disk automatically; keeping this file updated and reopening this folder is how you reliably resume.
+This file is the **project memory** for the Document Translator Prototype DEV Web app. Cursor does not copy full chat transcripts into your disk automatically; keeping this file updated and reopening this folder is how you reliably resume.
 
 ## When you start a different project in a new folder
 
 Nothing here is deleted. To come back to **this** project later:
 
 1. In Cursor: **File → Open Folder** and choose:
-   - `c:\Users\Meet.Poshia\Desktop\translator_webapp`
+   - `..\Document-Translator-Prototype-DEV`
 2. Open `NEXT_STEPS.md` (this file).
 3. In a new chat, paste something like:
-   - `Read NEXT_STEPS.md and continue the translator_webapp work from there.`
+   - `Read NEXT_STEPS.md and continue the Document Translator Prototype DEV work from there.`
 
 Optional: add this folder to **File → Add Folder to Workspace** or pin it in your recent folders so it is easy to find.
 
@@ -18,7 +18,7 @@ Chat history may still appear in Cursor for the same account, but **do not rely 
 
 ## Reopen Context Checklist (quick)
 
-1. Open workspace: `c:\Users\Meet.Poshia\Desktop\translator_webapp`
+1. Open workspace: `..\Document-Translator-Prototype-DEV`
 2. Open: `NEXT_STEPS.md`
 3. In chat: `Continue from NEXT_STEPS.md in this workspace.`
 

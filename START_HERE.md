@@ -9,7 +9,7 @@ Follow these steps **in order**. You need **Python 3.10+** and **Node.js (npm)**
 Open a terminal (PowerShell or Command Prompt) and run:
 
 ```powershell
-cd c:\Users\Meet.Poshia\Desktop\translator_webapp\backend
+cd ..\Document-Translator-Prototype-DEV\backend
 
 # Create a virtual environment (first time only)
 python -m venv venv
@@ -51,7 +51,7 @@ Uvicorn running on http://0.0.0.0:8000
 Open a **second** terminal and run:
 
 ```powershell
-cd c:\Users\Meet.Poshia\Desktop\translator_webapp\frontend
+cd ..\Document-Translator-Prototype-DEV\frontend
 
 # Install dependencies (first time only)
 npm install
