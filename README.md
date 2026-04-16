@@ -1,0 +1,2 @@
+# Document-Translator-Prototype-V1
+It is a small inititative project aimed to translate full document language to another. As of now only one-way translation of Mandarin, German and Spanish to English is faciliated. The translation model used is ArgoTranslate which is fully offline stored model with an average accuracy of (88-90)%. Because of it's facility of offline translation it is fully organizational secured.
