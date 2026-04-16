@@ -1,0 +1,15 @@
+# FastAPI and server
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+
+# File handling and parsing
+python-multipart==0.0.9
+python-docx==1.1.0
+PyMuPDF==1.24.0
+openpyxl==3.1.2
+
+# Offline translation (Argos Translate). Install language packs separately.
+argostranslate>=1.9.0
+
+# Config and utilities
+pydantic-settings==2.1.0
