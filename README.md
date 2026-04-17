@@ -2,7 +2,7 @@
 
 Upload documents (Word, Excel, CSV, Text), translate them **offline** using Argos Translate, and download the result with format preserved. Content never leaves your server.
 
-## Stack
+## Tech Stack
 
 - **Frontend:** React 18 + Vite (TypeScript)
 - **Backend:** FastAPI (Python)
